@@ -1,0 +1,9 @@
+.cvs {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+canvas {
+    border: solid 1px;
+}
